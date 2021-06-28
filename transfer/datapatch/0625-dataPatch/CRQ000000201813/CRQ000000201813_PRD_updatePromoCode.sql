@@ -1,0 +1,1 @@
+update inc_gr_passage_00.`campaign` set discount_type_value = '20.00', gmt_modified =  now() where id between 10000001 and 10010500;
