@@ -1,0 +1,16 @@
+update inc_gr_customer_00.channel_user_0000 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0001 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0002 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0003 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0004 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0005 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0006 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_0007 set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_account set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_address set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_email set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_identify_info set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_identify_info_trace set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_occupation_trace set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_phone set is_deleted = 'Y' where party_id in (1047);
+update inc_gr_customer_00.channel_user_router set is_deleted = 'Y' where party_id in (1047);
