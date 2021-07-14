@@ -1,0 +1,1 @@
+update inc_gr_passage_00.pre_auth_cap set is_deleted='Y' where id in (54729,41118,40361,40118,33369,33336,22454);
